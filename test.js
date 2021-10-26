@@ -1,1 +1,1 @@
-console.log ("Magda");
+console.log ("Mada");
